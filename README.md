@@ -1,5 +1,5 @@
-# Hello
-## Ako ay si Ethan Paul P. Rigunay ng 9-Beryllium at pasan ko ang isang dakilang layunin.
+hello
+# Ako ay si Ethan Paul P. Rigunay ng 9-Beryllium at pasan ko ang isang dakilang layunin.
 ### S.Y. 2026-2027
 
 
