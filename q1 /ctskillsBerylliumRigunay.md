@@ -21,11 +21,11 @@
 # **Step 2: Identify three to four Sub-Problems**
 Please list possible sub-problems:
 
-1. The coin mechanism incorrectly tracks the balance and dispenses the wrong amount of change to users.
+1. Faulty coin mechanism. The coin mechanism incorrectly tracks the balance and dispenses the wrong amount of change to users.
 
-2. The vending machine lacks sensors that track the stock of the items, and it also lacks alert systems to signal when the specific items are out of stock.
+2. Lack of stock monitoring. The vending machine lacks sensors that track the stock of the items, and it also lacks alert systems to signal when the specific items are out of stock.
 
-3. The system runs very slow during continuous usage, which causes long lines and delay.
+3. System lags. The system runs very slow during continuous usage, which causes long lines and delay.
 
 4. The machine lacks a transaction cancel system, which prevents users from backing out of accidental selections.
 
@@ -68,3 +68,49 @@ Focusing on the essential parts like transaction queues and ignoring useless inf
 
 
 # **Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem (Your group could use a separate sheet of paper)**
+### Sub-problem 1
+
+Faulty coin mechanism. The coin mechanism incorrectly tracks the balance and dispenses the wrong amount of change to users.
+
+### Pseudocode
+
+START
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;total_balance = 0
+
+&nbsp;&nbsp;&nbsp;&nbsp;item1_price = 15
+
+&nbsp;&nbsp;&nbsp;&nbsp;change = total_balance - item1_price
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;for each coin:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;read coin_input
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;total_balance = total_balance + coin_input
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if total_balance >= item_price:
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;break
+    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;break
+  
+&nbsp;&nbsp;&nbsp;&nbsp;break
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;dispense item1
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;if change > 0:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dispense change
+
+&nbsp;&nbsp;&nbsp;&nbsp;break
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;total_balance = 0
+
+
+END
