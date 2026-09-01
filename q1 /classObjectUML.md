@@ -14,7 +14,7 @@
 |  Pour  |  Pours the oil  |
 |  Burn  |  Burns the oil (why)  |
 ## Class Diagram
-![Class Diagram](images/classDiagram.png)
+![Class Diagram](images/ClassDiagram.png)
 ## Design Explanation
 ### Why did you choose this class?
 I chose this class because oil was the first thing that came to my mind and oil can be classified and be used in many ways. I also chose this because my first option had little methods.
