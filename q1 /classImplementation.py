@@ -4,11 +4,11 @@
 
 
 class Oil:
-  def __init__(self, type: string, average price: int, main ingredient/material: str, appearance: str):
-    self.type = type: string
-    self.average_price = average price: int
-    self.main_ingredient = main ingredient/material: str
-    self.__appearance = appearance: str
+  def __init__(self, type: str, average_price: int, main_ingredient: str, appearance: str):
+    self.type = type
+    self.average_price = average_price
+    self.main_ingredient = main_ingredient
+    self.__appearance = appearance
 
   def buy(self, brand: str):
     return f"You succesfully bought {self.type} oil for {self.average_price}."
@@ -19,8 +19,8 @@ class Oil:
     else:
       print(f"No more oil left to pour.")
 
-  def read_amount_volume(self, amount_in_milliliters: int):
-    return f"This {self.type} oil bottle is {amount_in_milliliters} mL."
+  def read_desc(self):
+    return f"Type: {self.type}, Average Price: {self.average_price}, Main Ingredient: {self.main_ingredient}, Appearance: {self.__appearance}"
 
   def use_discount_coupon(self, discount_amount: int):
     if discount_amount > 0 and discount_amount < self.average_price:
@@ -29,3 +29,14 @@ class Oil:
     else:
       print("Can't use coupon: Price is lower than the discount amount.")
 
+
+
+
+Oil1 = Oil(type="Canola", average_price=150, main_ingredient="Rapeseed", appearance="Yellow")
+Oil2 = Oil(type="Coconut", average_price=265, main_ingredient="Coconut", appearance="Transparent")
+
+
+
+
+print(f"Volume: {Oil1.read_desc()}")
+print(f"Volume: {Oil2.read_desc()}")
