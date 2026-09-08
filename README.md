@@ -20,3 +20,6 @@ hello
 
 ### OOPActivity
 [OOPAct](https://github.com/paul-rigunay/9berylliumcs3/blob/main/q1%20/classObjectUML.md)
+
+### OOPActivity II
+[OOPActII](https://github.com/paul-rigunay/9berylliumcs3/blob/main/q1%20/classAttributesMethods.md)
