@@ -4,13 +4,13 @@
 ## Properties
 | Property | Data Type | Description |
 
-|          type          |  string  |  The type of oil (examples: olive oil, motor oil)  |
+|       -  type          |  string  |  The type of oil (examples: olive oil, motor oil)  |
 
-|      average price     |  integer |  The average price of the oil around the world  |
+|   -  average price     |  integer |  The average price of the oil around the world  |
 
-|main ingredient/material|  string  |  The main ingredient or material used in making the oil  |
+|    -  main ingredient/material      |  string  |  The main ingredient or material used in making the oil  |
 
-|        appearance      |  string  |  The appearance of the oil (examples: yellow, transparent)  |
+|      +  appearance      |  string  |  The appearance of the oil (examples: yellow, transparent)  |
 
 ## Methods
 | Method | Description |
