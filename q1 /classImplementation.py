@@ -1,5 +1,4 @@
-# HINDI PA TAPOS!!
-# ok
+
 
 
 
