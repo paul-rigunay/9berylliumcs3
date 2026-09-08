@@ -3,10 +3,15 @@
 ## Class Description: Every oil has a name, an average price, a type, a main ingredient/material, and appearance (type of color/colorless)
 ## Properties
 | Property | Data Type | Description |
+
 |          type          |  string  |  The type of oil (examples: olive oil, motor oil)  |
+
 |      average price     |  integer |  The average price of the oil around the world  |
+
 |main ingredient/material|  string  |  The main ingredient or material used in making the oil  |
+
 |        appearance      |  string  |  The appearance of the oil (examples: yellow, transparent)  |
+
 ## Methods
 | Method | Description |
 |  Buy  |  Buys the oil  |
