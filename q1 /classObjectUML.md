@@ -14,10 +14,12 @@
 
 ## Methods
 | Method | Description |
-|  Buy  |  Buys the oil  |
 
-|  Pour  |  Pours the oil  |
-|  Burn  |  Burns the oil (why)  |
+|  + Buy  |  Buys the oil  |
+
+|  + Pour  |  Pours the oil  |
+
+|  + Burn  |  Burns the oil (why)  |
 ## Class Diagram
 ![Class Diagram](images/ClassDiagram.png)
 ## Design Explanation
