@@ -23,3 +23,11 @@ hello
 
 ### OOPActivity II
 [OOPActII](https://github.com/paul-rigunay/9berylliumcs3/blob/main/q1%20/classAttributesMethods.md)
+
+
+
+
+# Quarter 2
+
+## Activities
+
