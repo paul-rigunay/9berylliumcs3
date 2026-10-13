@@ -8,21 +8,20 @@ hello
 # Quarter 1
 
 ## Activities
-
 ### Computational Thinking Skills
-[Activity 1 Computational Thinking Skills](https://github.com/paul-rigunay/9berylliumcs3/blob/main/q1%20/ctskillsBerylliumRigunay.md)
+- [Activity 1 Computational Thinking Skills](https://github.com/paul-rigunay/9berylliumcs3/blob/main/q1%20/ctskillsBerylliumRigunay.md)
 
 ### Chinese Zodiac
-[Activity 2 Zodiac](https://github.com/paul-rigunay/9berylliumcs3/blob/main/q1%20/zodiacBerylliumRigunay.md)
+- [Activity 2 Zodiac](https://github.com/paul-rigunay/9berylliumcs3/blob/main/q1%20/zodiacBerylliumRigunay.md)
 
 ### OOP Concept
-[ILA Object-Oriented Programming](https://github.com/paul-rigunay/9berylliumcs3/blob/main/q1%20/ila_oop.md)
+- [ILA Object-Oriented Programming](https://github.com/paul-rigunay/9berylliumcs3/blob/main/q1%20/ila_oop.md)
 
 ### OOPActivity
-[OOPAct](https://github.com/paul-rigunay/9berylliumcs3/blob/main/q1%20/classObjectUML.md)
+- [OOPAct](https://github.com/paul-rigunay/9berylliumcs3/blob/main/q1%20/classObjectUML.md)
 
 ### OOPActivity II
-[OOPActII](https://github.com/paul-rigunay/9berylliumcs3/blob/main/q1%20/classAttributesMethods.md)
+- [OOPActII](https://github.com/paul-rigunay/9berylliumcs3/blob/main/q1%20/classAttributesMethods.md)
 
 
 
