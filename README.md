@@ -29,4 +29,5 @@ hello
 # Quarter 2
 
 ## Activities
-
+### Study Guide 8 - Encapsulation
+- [Study Guide 8 - Encapsulation](q2/sg8_encapsulation.py)
