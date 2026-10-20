@@ -33,4 +33,4 @@ hello
 - [Study Guide 8 - Encapsulation](q2/sg8_encapsulation.py)
 
 ### Study Guide 9 - Inheritance
-- [Study Guide 9 - Encapsulation](q2/sg9_inheritance.py)
+- [Study Guide 9 - Inheritance](q2/sg9_inheritance.py)
