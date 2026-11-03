@@ -34,3 +34,6 @@ hello
 
 ### Study Guide 9 - Inheritance
 - [Study Guide 9 - Inheritance](q2/sg9_inheritance.py)
+
+### Study Guide 10 - Method Overriding
+- [Study Guide 10 - Method Overriding](q2/sg10_methodOverriding.py)
